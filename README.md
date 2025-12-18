@@ -4,6 +4,7 @@ Jetpack Compose is a modern UI toolkit that simplifies and accelerates the proce
 
 # ANNOTATIONS
 **@Preview** : it provides real-time previews, enabling developers to see changes instantly as they code.
+
 **@Composable** : It defines UI elements, allowing for a modular and reusable approach to building user interfaces through a declarative pattern.
 
 
